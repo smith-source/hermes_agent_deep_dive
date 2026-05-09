@@ -1,3 +1,5 @@
+![hermes_agent_deep_dive](imgs/hermes_agent_deep_dive.png)
+
 # Hermes Agent Deep Dive
 
 > **20-chapter deep analysis series of a self-evolving AI agent** — every subsystem dissected, every module analyzed.

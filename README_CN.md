@@ -1,3 +1,5 @@
+![hermes_agent_deep_dive](imgs/hermes_agent_deep_dive.png)
+
 # Hermes Agent Deep Dive
 
 > **自进化 AI 代理的 20 篇深度分析系列** — 每个子系统逐层解剖，每个模块逐一剖析。
@@ -9,7 +11,7 @@
 [English](./README.md) | 中文
 
 ---
-![hermes_agent_deep_dive](imgs/hermes_agent_deep_dive.png)
+
 
 ## 项目简介
 
