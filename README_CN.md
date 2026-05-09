@@ -9,6 +9,7 @@
 [English](./README.md) | 中文
 
 ---
+![hermes_agent_deep_dive](imgs/hermes_agent_deep_dive.png)
 
 ## 项目简介
 

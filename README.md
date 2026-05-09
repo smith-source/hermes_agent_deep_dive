@@ -7,6 +7,7 @@
 **Wiki**: [hermes_agent_deep_dive](https://smith-source.github.io/hermes_agent_deep_dive/)
 
 ---
+![hermes_agent_deep_dive](imgs/hermes_agent_deep_dive.png)
 
 ## About
 
