@@ -12,7 +12,7 @@
 
 ## About
 
-Hermes Agent is a self-evolving omniscient AI agent — creating skills from experience, continuously improving through usage, runnable in any environment. This project provides a **comprehensive 20-chapter deep dive** into its entire architecture, covering 347,240 lines of Python core and 91,223 lines of TypeScript frontend.
+[Hermes Agent](https://github.com/NousResearch/hermes-agent.git) is a self-evolving omniscient AI agent — creating skills from experience, continuously improving through usage, runnable in any environment. This project provides a **comprehensive 20-chapter deep dive** into its entire architecture, covering 347,240 lines of Python core and 91,223 lines of TypeScript frontend.
 
 | Dimension | Scale |
 |-----------|-------|
