@@ -4,7 +4,7 @@
 
 [![Docsify](https://img.shields.io/badge/Powered%20by-Docsify-42b883)](https://docsify.js.org/) [![Languages](https://img.shields.io/badge/Languages-CN%20%7C%20EN-blue)]() [![Chapters](https://img.shields.io/badge/Chapters-20-orange)]() [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-**Wiki**: <!-- TODO: 填入 GitHub Pages 链接 -->
+**Wiki**: [hermes_agent_deep_dive](https://smith-source.github.io/hermes_agent_deep_dive/)
 
 ---
 
