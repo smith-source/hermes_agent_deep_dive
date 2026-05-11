@@ -45,6 +45,7 @@ build/
 .omc/research/
 .omc/plans/
 .omc/project-memory.json
+.omc/sessions/
 .claude/
 !docs/.nojekyll
 
